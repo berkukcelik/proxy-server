@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ubIUwcFuKx4=",
+  "dgSpecHash": "rSVfJRMr2q0=",
   "success": true,
   "projectFilePath": "/home/berkuk/Desktop/MyProjects/proxy-server/proxy-server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/berkuk/.nuget/packages/system.commandline/2.0.0-beta6.25358.103/system.commandline.2.0.0-beta6.25358.103.nupkg.sha512"
+  ],
   "logs": []
 }
